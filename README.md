@@ -18,6 +18,8 @@ I love creating robust, scalable applications using modern technologies. Whether
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
@@ -26,6 +28,8 @@ I love creating robust, scalable applications using modern technologies. Whether
 ### Backend & Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   <img width="12" />
@@ -67,7 +71,7 @@ Always exploring new technologies and improving my skills across the full develo
 
 ## 📫 How to Reach Me
 
-- GitHub: [adrianlord263](https://github.com/adrianlord263)
+- GitHub:  [adrianlord263](https://github.com/adrianlord263)
 - Email: yk499956@gmail.com
 
 ## ⚡ Fun Fact
